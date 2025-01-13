@@ -38,7 +38,6 @@ a{
 }
 .mybody p{
     color: black;
-    font-size: 18px;
 }
 
 .mybody{
@@ -46,8 +45,9 @@ a{
     flex-wrap: wrap;
     padding: 50px;
     color: rgb(104, 43, 226);
-    height: 400px;
+    height: 500px;
     margin-top: 5px;
+    font-size: 25px;
 }
 .education{
     background-color: rgba(178, 160, 186, 0.365);
@@ -75,6 +75,7 @@ a{
     align-self: center;
     padding: 10px;
     position: relative; left: -50px;
+    margin-top: 5px;
 }
 li{
     color: black;
@@ -88,6 +89,7 @@ li{
     align-content: center;
     font-family: 'Times New Roman', Tahoma, Verdana, sans-serif;
     color: white;
+    margin-top: 5px;
 }
 
 .projectdiv h3{
