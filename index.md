@@ -16,7 +16,9 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 
 ## Featured Projects: 
-1. Canterbury Financials
+1. #### Canterbury Financials
+   This is a BI report for reporting on some financial data provided for analysis. This helps the team have a visual representation of their financial statements requested at the Executive meeting.
+
 
 
 
