@@ -11,6 +11,7 @@ layout: default
 
 
 ##### Welcome to my portfolio page:
+This page holds some real-world projects I have worked on. However, kindly note that the names and elements have been altered to ensure data integrity.
 
 
 
