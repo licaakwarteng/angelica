@@ -11,10 +11,11 @@ layout: default
 
 
 ##### Welcome to my portfolio page:
-This page holds some real-world projects I have worked on. 
+This page holds some real-world projects I have worked on. \n
 However, kindly note that the names and elements have been altered to ensure data integrity. Thank you!
 
 - Project 1: W
+
 
 
 
