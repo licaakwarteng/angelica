@@ -9,9 +9,9 @@ layout: default
 ##### [My LinkedIn Profile](https://www.linkedin.com/in/angelicaakwarteng/)
 
 
+
 Welcome to my portfolio page:
 
-[View My LinkedIn Profile](https://www.linkedin.com/in/angelicaakwarteng/)
 
 
 
