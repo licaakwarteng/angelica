@@ -32,12 +32,14 @@ However, kindly note that the names and elements have been altered to ensure dat
 2. ### Deleans Health Supplements Report
    This is a BI report for reporting on health supplements data sourced from kaggle for analysis. This helps sales and marketing teams identify which products are most preferred in the market regions and hence streamline focus to increase revenue.
 
-   Tools used: Power BI.
-   Data sourced from kaggle: <a href="https://www.kaggle.com/datasets/zahidmughal2343/supplement-sales-data">Credit to: Zahid Feroze</a>
+   Tools used: Power BI and csv file.
+   
+   Data sourced from kaggle: <a href="https://www.kaggle.com/datasets/zahidmughal2343/supplement-sales-data">Credit: Zahid Feroze</a>
    
    Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects">Here</a>
 
    
+
 
 
 
