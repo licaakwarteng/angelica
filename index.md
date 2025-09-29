@@ -21,10 +21,14 @@ However, kindly note that the names and elements have been altered to ensure dat
    
    Tools used were Microsoft Excel and Power BI.
 
-   The report is an executive summary and emphasis placed on the liquidity part of the financial statements.
+   The report is in two parts: summary and dashboard with easy navigation.
 
    Project files are available in the GitHub project folder <a href=""></a>
+
+   <img width="1211" height="664" alt="image" src="https://github.com/user-attachments/assets/b8ff08db-e99c-48f2-a100-3b4cc2c4c1bd" />
+
    
+
 
 
 
