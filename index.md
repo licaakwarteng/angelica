@@ -60,11 +60,11 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 4. ### Maji Ndogo: Access To Drinking Water
    This is a BI report is to report a research survey in a country to help identify areas of improving drinking water access in Maji Ndogo.
-   This helps inform stakeholders where to commit funds and areas of focus to improve the lives of those involved.
+   This helps inform stakeholders where to commit funds and areas of focus to improve the lives of people in affected areas.
 
-   Tools used: Power BI and Excel files.
+   Tools used: Power BI, SQL and Excel files.
    
-   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects">Here</a>
+   Project files are available in the GitHub project folder <a href="[https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main/Maji%20Ndogo">Here</a>
 
 
 
@@ -85,6 +85,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 1. Video Game: VG Sales Analysis
 2. Spare Parts: Merge & Append Data
    
+
 
 
 
