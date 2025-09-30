@@ -34,7 +34,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
    Tools used: Power BI and csv file.
    
-   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects">Here</a>
+   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main/Deleans%20Supplements">Here</a>
 
 
    <img width="850" height="623" alt="image" src="https://github.com/user-attachments/assets/e1530ccc-b024-4d67-83ac-3dcf5ecb1946" />
@@ -85,6 +85,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 1. Video Game: VG Sales Analysis
 2. Spare Parts: Merge & Append Data
    
+
 
 
 
