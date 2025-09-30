@@ -67,6 +67,10 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 ## Archived Projects: 
 This is a list of all other projects I worked on within the timeframe of August 2024 to August 2025. For more info, visit Github Archived Projects Repository <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main">Here</a>.
+1. VG Sales Analysis
+   
+
+
 
 
 
