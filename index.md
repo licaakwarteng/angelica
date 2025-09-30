@@ -49,7 +49,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
    View prototype of the solution <a href="https://app.visily.ai/projects/2ce372af-79f9-4e60-bd4f-428153ee717e/boards/1770920/presenter?play-mode=Prototype">Here</a>
 
-   <img width="421" height="667" alt="image" src="https://github.com/user-attachments/assets/be3b7323-797e-44e3-85f7-dfe8555d3501" /><img width="1174" height="655" alt="image" src="https://github.com/user-attachments/assets/e606009d-7deb-4e8e-ae3a-acc541fd9728" />
+   <img width="321" height="667" alt="image" src="https://github.com/user-attachments/assets/be3b7323-797e-44e3-85f7-dfe8555d3501" /><img width="1154" height="655" alt="image" src="https://github.com/user-attachments/assets/e606009d-7deb-4e8e-ae3a-acc541fd9728" />
 
 
    
@@ -64,6 +64,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 ## Archived Projects: 
 This is a list of all other projects I worked on within the timeframe of August 2024 to August 2025. For more info, visit Github Archived Projects Repository <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main">Here</a>.
+
 
 
 
