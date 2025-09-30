@@ -38,6 +38,18 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 
    <img width="850" height="623" alt="image" src="https://github.com/user-attachments/assets/e1530ccc-b024-4d67-83ac-3dcf5ecb1946" />
+   
+
+
+3. ### ThriveMind Mental Health Solution
+   This is a design thinking project as part of a volunteering and data science exercise.
+   The solution design is a user-friendly interface to integrate mental solution into wellness apps without stigmatiztion. The solution required using machine learning algorithms for predictions and natural language processing for sentiment analysis. However, without an interactive user experience, users may never use the solution.
+
+   Tools used: Figma and Visily AI.
+
+   View prototype of the solution <a href="https://app.visily.ai/projects/2ce372af-79f9-4e60-bd4f-428153ee717e/boards/1770920/presenter?play-mode=Prototype">Here</a>
+
+   <img width="421" height="667" alt="image" src="https://github.com/user-attachments/assets/be3b7323-797e-44e3-85f7-dfe8555d3501" /><img width="1174" height="655" alt="image" src="https://github.com/user-attachments/assets/e606009d-7deb-4e8e-ae3a-acc541fd9728" />
 
 
    
@@ -52,6 +64,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 ## Archived Projects: 
 This is a list of all other projects I worked on within the timeframe of August 2024 to August 2025. For more info, visit Github Archived Projects Repository <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main">Here</a>.
+
 
 
 
