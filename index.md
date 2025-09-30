@@ -47,7 +47,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
    Tools used: Figma and Visily AI.
 
-   View prototype of the solution <a href="https://app.visily.ai/projects/2ce372af-79f9-4e60-bd4f-428153ee717e/boards/1770920/presenter?play-mode=Prototype">Here</a>
+   View sample prototype of the solution <a href="https://app.visily.ai/projects/2ce372af-79f9-4e60-bd4f-428153ee717e/boards/1770920/presenter?play-mode=Prototype">For Mobile</a> and <a href="https://app.visily.ai/projects/2ce372af-79f9-4e60-bd4f-428153ee717e/boards/1776139/presenter?play-mode=Prototype">For desktop</a>
 
    <p><img width="250" height="667" alt="image" src="https://github.com/user-attachments/assets/be3b7323-797e-44e3-85f7-dfe8555d3501" />
       <img width="550" height="1055" alt="image" src="https://github.com/user-attachments/assets/e606009d-7deb-4e8e-ae3a-acc541fd9728" />
@@ -67,6 +67,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 ## Archived Projects: 
 This is a list of all other projects I worked on within the timeframe of August 2024 to August 2025. For more info, visit Github Archived Projects Repository <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main">Here</a>.
+
 
 
 
