@@ -64,7 +64,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
    Tools used: Power BI, SQL and Excel files.
    
-   Project files are available in the GitHub project folder <a href="[https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main/Maji%20Ndogo">Here</a>
+   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main/Maji%20Ndogo">Here</a>
 
 
 
@@ -85,6 +85,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 1. Video Game: VG Sales Analysis
 2. Spare Parts: Merge & Append Data
    
+
 
 
 
