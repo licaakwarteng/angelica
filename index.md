@@ -10,7 +10,7 @@ layout: default
 
 
 
-### About my portfolio page:
+### About:
 This page holds some real-world and personal projects I have worked on.
 However, kindly note that the names and elements have been altered to ensure data integrity. Thank you!
 
@@ -85,6 +85,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 1. Video Game: VG Sales Analysis
 2. Spare Parts: Merge & Append Data
    
+
 
 
 
