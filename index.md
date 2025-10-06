@@ -5,12 +5,12 @@ layout: default
 
 <img src="Images/angelica.jpg" alt="Angelica's Profile Picture" width="200" style="border-radius: 100px;" />
 
-## Hello, I'm Angelica Adjei-Kwarteng 👋
+## Hello, Welcome to my portfolio page 👋
 
 
 
 
-### Welcome to my portfolio page:
+### About my portfolio page:
 This page holds some real-world and personal projects I have worked on.
 However, kindly note that the names and elements have been altered to ensure data integrity. Thank you!
 
@@ -85,6 +85,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 1. Video Game: VG Sales Analysis
 2. Spare Parts: Merge & Append Data
    
+
 
 
 
