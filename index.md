@@ -55,8 +55,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
    Screenshot captured is a hypothesis test visual to check for price distribution among the different brands in the dataset.
 
-   <img width="964" height="599" alt="image" src="https://github.com/user-attachments/assets/1eb3964d-864b-4ec9-a8c6-c9d93128fa7f" />
-
+   <img width="1131" height="696" alt="image" src="https://github.com/user-attachments/assets/2068a21e-9d95-42ad-a1e8-85656cb3015d" />
 
 
 
@@ -115,6 +114,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
