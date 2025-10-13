@@ -41,7 +41,30 @@ However, kindly note that the names and elements have been altered to ensure dat
    
 
 
-3. ### ThriveMind Mental Health Solution
+4. ### Adopting Different Strategies
+   This is a fashion project that addresses three different objectives in a business setting. The project was done using Python. This helps the team have a visual representation of their financial statements requested at the Executive meeting.
+   
+   Tools used were Python and Jupyter Notebooks.
+
+   The report is in three parts:
+   1. The Sales and Marketing Team Report
+   2. The Executive Team Report
+   3. The Data Science and DevOps Team.
+
+   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/ML%20models/fashion_analytics.ipynb">Here</a>
+
+   Screenshot captured is a hypothesis test visual to check for price distribution among the different brands in the dataset.
+
+   <img width="964" height="599" alt="image" src="https://github.com/user-attachments/assets/1eb3964d-864b-4ec9-a8c6-c9d93128fa7f" />
+
+
+
+
+
+
+
+
+4. ### ThriveMind Mental Health Solution
    This is a design thinking project as part of a volunteering and data science exercise.
    The solution design is a user-friendly interface to integrate mental solution into wellness apps without stigmatiztion. The solution required using machine learning algorithms for predictions and natural language processing for sentiment analysis. However, without an interactive user experience, users may never use the solution.
 
@@ -58,7 +81,7 @@ However, kindly note that the names and elements have been altered to ensure dat
    
 
 
-4. ### Maji Ndogo: Access To Drinking Water
+5. ### Maji Ndogo: Access To Drinking Water
    This is a BI report is to report a research survey in a country to help identify areas of improving drinking water access in Maji Ndogo.
    This helps inform stakeholders where to commit funds and areas of focus to improve the lives of people in affected areas.
 
@@ -92,6 +115,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
