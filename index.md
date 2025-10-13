@@ -37,7 +37,7 @@ However, kindly note that the names and elements have been altered to ensure dat
    Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main/Deleans%20Supplements">Here</a>
 
 
-   <img width="850" height="623" alt="image" src="https://github.com/user-attachments/assets/e1530ccc-b024-4d67-83ac-3dcf5ecb1946" />
+   <img width="1205" height="623" alt="image" src="https://github.com/user-attachments/assets/e1530ccc-b024-4d67-83ac-3dcf5ecb1946" />
    
 
 
@@ -53,7 +53,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
    Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/ML%20models/fashion_analytics.ipynb">Here</a>
 
-   <img width="850" height="623" alt="image" src="https://github.com/user-attachments/assets/2068a21e-9d95-42ad-a1e8-85656cb3015d" />
+   <img width="1205" height="623" alt="image" src="https://github.com/user-attachments/assets/2068a21e-9d95-42ad-a1e8-85656cb3015d" />
 
 
 
@@ -69,8 +69,8 @@ However, kindly note that the names and elements have been altered to ensure dat
 
    View sample prototype of the solution <a href="https://app.visily.ai/projects/2ce372af-79f9-4e60-bd4f-428153ee717e/boards/1770920/presenter?play-mode=Prototype">For Mobile</a> and <a href="https://app.visily.ai/projects/2ce372af-79f9-4e60-bd4f-428153ee717e/boards/1776139/presenter?play-mode=Prototype">For Desktop</a>
 
-   <p><img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/be3b7323-797e-44e3-85f7-dfe8555d3501" />
-      <img width="580" height="500" alt="image" src="https://github.com/user-attachments/assets/e606009d-7deb-4e8e-ae3a-acc541fd9728" />
+   <p><img width="320" height="500" alt="image" src="https://github.com/user-attachments/assets/be3b7323-797e-44e3-85f7-dfe8555d3501" />
+      <img width="885" height="500" alt="image" src="https://github.com/user-attachments/assets/e606009d-7deb-4e8e-ae3a-acc541fd9728" />
    </p>
    
 
@@ -112,6 +112,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
