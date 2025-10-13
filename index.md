@@ -53,8 +53,6 @@ However, kindly note that the names and elements have been altered to ensure dat
 
    Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/ML%20models/fashion_analytics.ipynb">Here</a>
 
-   Screenshot captured is a hypothesis test visual to check for price distribution among the different brands in the dataset.
-
    <img width="1131" height="696" alt="image" src="https://github.com/user-attachments/assets/2068a21e-9d95-42ad-a1e8-85656cb3015d" />
 
 
@@ -114,6 +112,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
