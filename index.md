@@ -80,7 +80,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 
 ## Other BI Projects:
-You can view the all BI projects in repository<a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects">here</a>
+You can view other BI projects in repository <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects">here</a>
 1. Video Game: VG Sales Analysis
 2. Spare Parts: Merge & Append Data
 
@@ -92,6 +92,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
