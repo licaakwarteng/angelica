@@ -79,12 +79,20 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 
 
-
-## Archived Projects: 
-This is a list of all other projects I worked on within the timeframe of August 2024 to August 2025. For more info, visit Github Archived Projects Repository <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main">Here</a>.
+## Other BI Projects:
+You can view the all BI projects in repository<a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects">here</a>
 1. Video Game: VG Sales Analysis
 2. Spare Parts: Merge & Append Data
+
+
+## Archived Projects: 
+This is a list of all other projects I worked on within the timeframe of August 2024 to August 2025. For more info, visit Github Archived Projects Repository <a href="https://github.com/licaakwarteng/Python_projects/tree/main/data_analytics">Here</a>.
+1. Analyzing investment strategies
+2. Analytics - Marketing
+3. Data Analytics - Product Sales
+4. Analytics - SAT Scores
    
+
 
 
 
