@@ -106,12 +106,13 @@ You can view other BI projects in repository <a href="https://github.com/licaakw
 
 
 ## Archived Projects: 
-This is a list of all other projects I worked on within the timeframe of August 2024 to August 2025. For more info, visit Github Archived Projects Repository <a href="https://github.com/licaakwarteng/Python_projects/tree/main/data_analytics">Here</a>.
+This is a list of all other projects I worked on within the timeframe of August 2024 to August 2025. For more info, visit my Github Archived Projects Repository <a href="https://github.com/licaakwarteng/Python_projects/tree/main/data_analytics">Here</a>.
 1. Analyzing investment strategies
 2. Analytics - Marketing
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
