@@ -44,7 +44,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 4. ### Lavender Lane Fashion Project
    This is a fashion project that addresses three different objectives in a business setting. The project was done using Python. This helps the team have some insights at departmental level. Not all insights are the same for every stakeholder even though the data analyst may be the same personnel communicating insights.
    
-   Tools used were Python and Jupyter Notebooks.
+   Tools used were Python, csv files and Jupyter Notebooks.
 
    The report is in three parts:
    1. The Sales and Marketing Team Report
@@ -112,6 +112,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
