@@ -16,7 +16,20 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 
 ## Featured Projects: 
-1. ### Canterbury Financials
+1. ### CrishBet Market Analysis
+   This SQL analysis is to have an overview of customer interaction with the company's products. The Betting industry is growing and competition in the field is no different from other industries. Identifying how different customers interact with the company's products enables the marketing team tailor their strategies and drive insights about customer behaviour.
+   
+   Tools used were SQL and Jupyter Notebooks.
+
+   The report is in two parts: executive summary and notebook (analysis).
+
+   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/marketing/CrishBet.ipynb">Here</a>
+
+   <img width="288" height="202" alt="image" src="https://github.com/user-attachments/assets/f85fc061-ad02-4670-bf73-3482075c8576" />
+
+
+
+2. ### Canterbury Financials
    This is a BI report for reporting on some financial data provided for analysis. This helps the team have a visual representation of their financial statements requested at the Executive meeting.
    
    Tools used were Microsoft Excel and Power BI.
@@ -29,7 +42,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 
 
-2. ### Deleans Health Supplements Report
+3. ### Deleans Health Supplements Report
    This is a BI report for reporting on health supplements data sourced from kaggle for analysis. This helps sales and marketing teams identify which products are most preferred in the market regions and hence streamline focus to increase revenue.
 
    Tools used: Power BI and csv file.
@@ -61,7 +74,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 
 
-4. ### ThriveMind Mental Health Solution
+5. ### ThriveMind Mental Health Solution
    This is a design thinking project as part of a volunteering and data science exercise.
    The solution design is a user-friendly interface to integrate mental solution into wellness apps without stigmatiztion. The solution required using machine learning algorithms for predictions and natural language processing for sentiment analysis. However, without an interactive user experience, users may never use the solution.
 
@@ -78,7 +91,7 @@ However, kindly note that the names and elements have been altered to ensure dat
    
 
 
-5. ### Maji Ndogo: Access To Drinking Water
+6. ### Maji Ndogo: Access To Drinking Water
    This is a BI report is to report a research survey in a country to help identify areas of improving drinking water access in Maji Ndogo.
    This helps inform stakeholders where to commit funds and areas of focus to improve the lives of people in affected areas.
 
@@ -112,6 +125,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
