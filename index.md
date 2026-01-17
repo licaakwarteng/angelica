@@ -23,13 +23,14 @@ However, kindly note that the names and elements have been altered to ensure dat
 
    The report is in two parts: executive summary and notebook (analysis).
 
-   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/marketing/CrishBet.ipynb">Here</a>
+   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/marketing">Here</a>
+   Download Executive Summary <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/marketing/CrishBet_consumer_behavior_executive_summary.docx">here</a>
 
    <img width="288" height="202" alt="image" src="https://github.com/user-attachments/assets/f85fc061-ad02-4670-bf73-3482075c8576" />
 
 
 
-2. ### Canterbury Financials
+3. ### Canterbury Financials
    This is a BI report for reporting on some financial data provided for analysis. This helps the team have a visual representation of their financial statements requested at the Executive meeting.
    
    Tools used were Microsoft Excel and Power BI.
@@ -42,7 +43,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 
 
-3. ### Deleans Health Supplements Report
+4. ### Deleans Health Supplements Report
    This is a BI report for reporting on health supplements data sourced from kaggle for analysis. This helps sales and marketing teams identify which products are most preferred in the market regions and hence streamline focus to increase revenue.
 
    Tools used: Power BI and csv file.
@@ -54,7 +55,7 @@ However, kindly note that the names and elements have been altered to ensure dat
    
 
 
-4. ### Lavender Lane Fashion Project
+5. ### Lavender Lane Fashion Project
    This is a fashion project that addresses three different objectives in a business setting. The project was done using Python. This helps the team have some insights at departmental level. Not all insights are the same for every stakeholder even though the data analyst may be the same personnel communicating insights.
    
    Tools used were Python, csv files and Jupyter Notebooks.
@@ -74,7 +75,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 
 
-5. ### ThriveMind Mental Health Solution
+6. ### ThriveMind Mental Health Solution
    This is a design thinking project as part of a volunteering and data science exercise.
    The solution design is a user-friendly interface to integrate mental solution into wellness apps without stigmatiztion. The solution required using machine learning algorithms for predictions and natural language processing for sentiment analysis. However, without an interactive user experience, users may never use the solution.
 
@@ -91,7 +92,7 @@ However, kindly note that the names and elements have been altered to ensure dat
    
 
 
-6. ### Maji Ndogo: Access To Drinking Water
+7. ### Maji Ndogo: Access To Drinking Water
    This is a BI report is to report a research survey in a country to help identify areas of improving drinking water access in Maji Ndogo.
    This helps inform stakeholders where to commit funds and areas of focus to improve the lives of people in affected areas.
 
@@ -125,6 +126,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
