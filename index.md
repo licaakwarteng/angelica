@@ -23,11 +23,9 @@ However, kindly note that the names and elements have been altered to ensure dat
 
    The report is in two parts: executive summary and notebook (analysis).
 
-   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/marketing">Here</a>
-   
-   You can also download Executive Summary only <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/marketing/CrishBet_consumer_behavior_executive_summary.docx">here</a>
+   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Customer-Retention-Profitability">Here</a>
 
-   <img width="288" height="202" alt="image" src="https://github.com/user-attachments/assets/f85fc061-ad02-4670-bf73-3482075c8576" />
+   <img width="1200" height="602" alt="image" src="https://github.com/user-attachments/assets/f85fc061-ad02-4670-bf73-3482075c8576" />
 
 
 
@@ -127,6 +125,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
