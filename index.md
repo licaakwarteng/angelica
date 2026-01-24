@@ -16,12 +16,12 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 
 ## Featured Projects: 
-1. ### CrishBet Market Analysis
+1. ### Customer Retention & Profitability Analysis
    This SQL analysis is to have an overview of customer interaction with the company's products. The Betting industry is growing and competition in the field is no different from other industries. Identifying how different customers interact with the company's products enables the marketing team tailor their strategies and drive insights about customer behaviour.
    
    Tools used were SQL and Jupyter Notebooks.
 
-   The report is in two parts: executive summary and notebook (analysis).
+   The report is a combination of marketing and product analysis.
 
    Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Customer-Retention-Profitability">Here</a>
 
@@ -125,6 +125,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
