@@ -17,7 +17,7 @@ However, kindly note that the names and elements have been altered to ensure dat
 
 ## Featured Projects: 
 1. ### Customer Retention & Profitability Analysis
-   This SQL analysis is to have an overview of customer interaction with the company's products. The Betting industry is growing and competition in the field is no different from other industries. Identifying how different customers interact with the company's products enables the marketing team tailor their strategies and drive insights about customer behaviour.
+   This project is to help the team understand their users’ behavior and identify opportunities to improve retention and profitability. The Betting industry is growing and competition in the field is no different from other industries. Identifying how different customers interact with the company's products enables both the marketing team and product team tailor their strategies and drive insights about customer behaviour.
    
    Tools used were SQL and Jupyter Notebooks.
 
@@ -125,6 +125,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
