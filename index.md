@@ -17,14 +17,14 @@ layout: default
 
 
 ### About:
-I'm detail-oriented, adaptable and skilled in developing data workflows that convert raw operational data into insights used by stakeholders to improve efficiency, 
-reporting, and strategic clarity. You can count on me to support your customer operations, administrative processes, and financial decision-making through well-structured analytics solutions. Have an overview of some real-world and personal projects I have worked on.
-Kindly note that the names and elements have been altered to ensure data integrity. Thank you!
+I'm detail-oriented, adaptable and skilled at converting raw operational data into insights used by stakeholders to improve efficiency, 
+reporting, and strategic clarity. 
+You can count on me to support your customer operations, administrative processes, and financial decision-making through well-structured analytics solutions.
 
 
 ## Featured Projects: 
 1. ### Customer Retention & Profitability Analysis
-   This project is to help the team understand their users’ behavior and identify opportunities to improve retention and profitability.
+   Helping CrishBet Betting Company understand their users’ behavior and identify opportunities to improve retention and profitability.
 
    Project is a combination of marketing and product analysis.
 
@@ -130,6 +130,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
