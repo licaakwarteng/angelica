@@ -16,7 +16,8 @@ layout: default
 
 
 ### About:
-My portfolio holds some real-world and personal projects I have worked on.
+I'm detail-oriented, adaptable and skilled in developing data workflows that convert raw operational data into insights used by stakeholders to improve efficiency, 
+reporting, and strategic clarity. You can count on me to support your customer operations, administrative processes, and financial decision-making through well-structured analytics solutions. Have an overview of some real-world and personal projects I have worked on.
 Kindly note that the names and elements have been altered to ensure data integrity. Thank you!
 
 
@@ -128,6 +129,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
