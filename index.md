@@ -39,16 +39,17 @@ You can count on me to support your customer operations, administrative processe
    
    Tools used: Microsoft Excel and Power BI.
 
-   The report is in two parts: summary and dashboard with easy navigation.
+   Reporting is split into two parts: summary and dashboard with easy navigation.
 
-   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main/Canterbury%20Financials">Here</a>
+   For project details, visit my GitHub repository <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/tree/main/Canterbury%20Financials">Here</a>
 
    <img width="1205" height="670" alt="image" src="https://github.com/user-attachments/assets/bda24da5-a4f6-4886-9ed1-d56a61acd70d" />
 
 
 
-4. ### Deleans Health Supplements Report
-   This is a BI report for reporting on health supplements data sourced from kaggle for analysis. This helps sales and marketing teams identify which products are most preferred in the market regions and hence streamline focus to increase revenue.
+4. ### Improving Customer Satisfaction & Increasing Revenue
+   Identify which products are most preferred in the market regions can help to streamline focus and increase revenue. This is a personal project with data sourced from kaggle for analysis.
+   Project focuses on sales and marketing analysis. (Exploratory Data Analysis)
 
    Tools used: Power BI and csv file.
    
@@ -59,17 +60,17 @@ You can count on me to support your customer operations, administrative processe
    
 
 
-5. ### Lavender Lane Fashion Project
-   This is a fashion project that addresses three different objectives in a business setting. The project was done using Python. This helps the team have some insights at departmental level. Not all insights are the same for every stakeholder even though the data analyst may be the same personnel communicating insights.
+6. ### Gaining a Competitive Advantage in Fashion Business
+   This fashion project addresses three different objectives in a business setting. Focus on same company, different business objectives to different stakeholders.
    
-   Tools used were Python, csv files and Jupyter Notebooks.
+   Tools used: Python, csv files and Jupyter Notebooks.
 
    The report is in three parts:
    1. The Sales and Marketing Team Report
    2. The Executive Team Report
    3. The Data Science and DevOps Team.
 
-   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/ML%20models/fashion_analytics.ipynb">Here</a>
+   For project details, visit my GitHub repository <a href="https://github.com/licaakwarteng/Python_projects/blob/main/data_science/ML%20models/fashion_analytics.ipynb">Here</a>
 
    <img width="1205" height="623" alt="image" src="https://github.com/user-attachments/assets/2068a21e-9d95-42ad-a1e8-85656cb3015d" />
 
@@ -79,9 +80,11 @@ You can count on me to support your customer operations, administrative processe
 
 
 
-6. ### ThriveMind Mental Health Solution
-   This is a design thinking project as part of a volunteering and data science exercise.
-   The solution design is a user-friendly interface to integrate mental solution into wellness apps without stigmatiztion. The solution required using machine learning algorithms for predictions and natural language processing for sentiment analysis. However, without an interactive user experience, users may never use the solution.
+7. ### Reducing Stigma, Improving Mental Health
+   Ever wondered why people avoid discussing about mental health? Stigma! Yes, to avoid stigmatization. This design thinking project as part of a volunteering and data science exercise is a solution. Design focuses on a user-friendly interface to integrate mental solution into wellness apps to help improve mental health accessibility.
+
+   Project required using machine learning algorithms for predictions and natural language processing for sentiment analysis at backend.
+   However, without an interactive user design at frontend, users may never use the solution. All personalities inclusive!
 
    Tools used: Figma and Visily AI.
 
@@ -96,13 +99,13 @@ You can count on me to support your customer operations, administrative processe
    
 
 
-7. ### Maji Ndogo: Access To Drinking Water
-   This is a BI report is to report a research survey in a country to help identify areas of improving drinking water access in Maji Ndogo.
-   This helps inform stakeholders where to commit funds and areas of focus to improve the lives of people in affected areas.
+9. ### Improving Access To Drinking Water in Maji Ndogo
+   Identifying areas to improve drinking water access in Maji Ndogo and making water accessible to its citizens required a research survey and thorough analysis.
+   This personal project mimics real-life scenarios in economic situations and inform stakeholders where to commit funds to improve the lives of people in affected areas.
 
    Tools used: Power BI, SQL and Excel files.
    
-   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/blob/main/Maji%20Ndogo/Project_Summary.md">Here</a>
+   For project details, visit my GitHub repository <a href="https://github.com/licaakwarteng/Data-Analytics-BI-Projects/blob/main/Maji%20Ndogo/Project_Summary.md">Here</a>
 
 
 
@@ -130,6 +133,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
