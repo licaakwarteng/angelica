@@ -3,9 +3,12 @@ title: Angelica Adjei-Kwarteng
 layout: default
 ---
 
-<!-- <img src="Images/angelica.jpg" alt="Angelica's Profile Picture" width="200" style="border-radius: 100px;" /> -->
+<div>
+   <img src="Images/angelica.jpg" alt="Angelica's Profile Picture" width="200" style="border-radius: 100px;" />
+   ## Hi, I'm Angelica and welcome to my portfolio page 👋
+</div>
 
-## Hi, I'm Angelica and welcome to my portfolio page 👋
+
 
 
 
@@ -123,6 +126,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
