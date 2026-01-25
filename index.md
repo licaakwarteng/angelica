@@ -3,27 +3,25 @@ title: Angelica Adjei-Kwarteng
 layout: default
 ---
 
-<img src="Images/angelica.jpg" alt="Angelica's Profile Picture" width="200" style="border-radius: 100px;" />
+<!-- <img src="Images/angelica.jpg" alt="Angelica's Profile Picture" width="200" style="border-radius: 100px;" /> -->
 
-## Hello, Welcome to my portfolio page 👋
+## Hi, I'm Angelica and welcome to my portfolio page 👋
 
 
 
 
 ### About:
-This page holds some real-world and personal projects I have worked on.
-However, kindly note that the names and elements have been altered to ensure data integrity. Thank you!
+My portfolio holds some real-world and personal projects I have worked on.
+Kindly note that the names and elements have been altered to ensure data integrity. Thank you!
 
 
 ## Featured Projects: 
 1. ### Customer Retention & Profitability Analysis
-   This project is to help the team understand their users’ behavior and identify opportunities to improve retention and profitability. The Betting industry is growing and competition in the field is no different from other industries. Identifying how different customers interact with the company's products enables both the marketing team and product team tailor their strategies and drive insights about customer behaviour.
-   
-   Tools used were SQL and Jupyter Notebooks.
+   This project is to help the team understand their users’ behavior and identify opportunities to improve retention and profitability.
 
-   The report is a combination of marketing and product analysis.
+   Project is a combination of marketing and product analysis.
 
-   Project files are available in the GitHub project folder <a href="https://github.com/licaakwarteng/Customer-Retention-Profitability">Here</a>
+   For project details, visit my GitHub repository <a href="https://github.com/licaakwarteng/Customer-Retention-Profitability">Here</a>
 
    <img width="1200" height="602" alt="image" src="https://github.com/user-attachments/assets/f85fc061-ad02-4670-bf73-3482075c8576" />
 
@@ -125,6 +123,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
