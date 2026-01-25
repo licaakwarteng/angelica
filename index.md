@@ -34,7 +34,7 @@ You can count on me to support your customer operations, administrative processe
 
 
 
-3. ### Balancing Sheets: Reconciling Accounts
+3. ### Balancing Sheets: Reconciling Financial Accounts
    Resolving financial discrepancies can be easy when presented in visual form. This helps both the Finance and Executive teams have a visual representation of their financial statements.
    
    Tools used: Microsoft Excel and Power BI.
@@ -130,6 +130,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
