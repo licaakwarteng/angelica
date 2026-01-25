@@ -34,7 +34,7 @@ You can count on me to support your customer operations, administrative processe
 
 
 
-3. ### Canterbury Financials
+3. ### Balancing Sheets: Reconciling Accounts
    This is a BI report for reporting on some financial data provided for analysis. This helps the team have a visual representation of their financial statements requested at the Executive meeting.
    
    Tools used were Microsoft Excel and Power BI.
@@ -130,6 +130,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
