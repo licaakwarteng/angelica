@@ -5,7 +5,7 @@ layout: default
 
 <div>
    <img src="Images/angelica.jpg" alt="Angelica's Profile Picture" width="200" style="border-radius: 100px;" />
-   ## Hi, I'm Angelica and welcome to my portfolio page 👋
+   <h2>Hi, I'm Angelica and welcome to my portfolio page 👋</h2>
 </div>
 
 
@@ -126,6 +126,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
