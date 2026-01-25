@@ -6,7 +6,7 @@ layout: default
 <div style="display: flex; align-items: center; gap: 16px;">
    <img src="Images/angelica.jpg" alt="Angelica's Profile Picture" width="100" style="border-radius: 50%;" />
    <!-- <h2> Angelica and welcome to my portfolio page 👋</h2> -->
-  <div style="display: block;>
+  <div>
       <h2> Angelica Adjei-Kwarteng</h2>
       <h3> Data Analyst (Analytics Specialist)</h3>
   </div>
@@ -131,6 +131,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
